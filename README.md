@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 I'm Jessica Gichuru, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m studying as a Software Engineer in Moringa School and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
