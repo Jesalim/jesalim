@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The first programmer was a daughter of a mad poet.
 
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/jessica-muthoni-70165723b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
