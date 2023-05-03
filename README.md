@@ -3,11 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on create a react app using Vite
-- 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on ruby on rails final project.
-- 🤔 I’m looking for help with handling routing in my application.
-- 💬 Ask me about: Embedded systems,Cloud and IOT, Js,React,Ruby and Ruby on Rails  
+- 🔭 Currently learning vue js,tailwind css and nextjs 
+- 👯 Just completed a full stack web app group project
+- 🤔 Creating my personal portfolio and my projects website
+- 💬 Ask me about: Embedded systems,Cloud and IOT,HTML,CSS,tailwind, Js,React,Vite,Ruby and Ruby on Rails  
 - ⚡ Fun fact: The first programmer was a daughter of a mad poet.
 
 -->
@@ -39,15 +38,16 @@ Here are some ideas to get you started:
 
 I'm Jessica Gichuru, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m studying as a Software Engineer in Moringa School and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Moringa School Software Engineering graduate.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Hackerrank.Code wars and read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank,Code wars,practicing DSA and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-muthoni-70165723b/)
 
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -58,6 +58,11 @@ I'm Jessica Gichuru, a Full Stack Developer <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
