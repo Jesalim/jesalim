@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Currently learning vue js,tailwind css and nextjs 
-- 👯 Just completed a full stack web app group project
-- 🤔 Creating my personal portfolio and my projects website
+- 🔭 Currently learning python and mongodb
+- 👯 Just completed the embedded part of a door automation system
+- 🤔 In the process of creating a first blog maybe....
 - 💬 Ask me about: Embedded systems,Cloud and IOT,HTML,CSS,tailwind, Js,React,Vite,Ruby and Ruby on Rails  
 - ⚡ Fun fact: The first programmer was a daughter of a mad poet.
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 I'm Jessica Gichuru, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m a Moringa School Software Engineering graduate.
+- :telescope: I’m a Technical Mentor at Gearbox Academy.
 
 - :seedling: Exploring Technical Content Writing.
 
