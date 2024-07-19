@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=Jesalim&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Thank you for stopping by!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 I'm Jessica Gichuru, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m a Technical Mentor at Gearbox Academy.
+- :telescope: I’m a Freelance Full stack Developer based in United Arab Emirates.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Hackerrank,Code wars,practicing DSA and read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank,Code wars,practicing DSA and read and write tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-muthoni-70165723b/)
 
